@@ -1,0 +1,9 @@
+C:\Users\Getga\source\repos\Solution1\EscuelaSystemModules\bin\Debug\netcoreapp3.1\EscuelaSystemModules.deps.json
+C:\Users\Getga\source\repos\Solution1\EscuelaSystemModules\bin\Debug\netcoreapp3.1\EscuelaSystemModules.dll
+C:\Users\Getga\source\repos\Solution1\EscuelaSystemModules\bin\Debug\netcoreapp3.1\EscuelaSystemModules.pdb
+C:\Users\Getga\source\repos\Solution1\EscuelaSystemModules\obj\Debug\netcoreapp3.1\EscuelaSystemModules.csprojAssemblyReference.cache
+C:\Users\Getga\source\repos\Solution1\EscuelaSystemModules\obj\Debug\netcoreapp3.1\EscuelaSystemModules.AssemblyInfoInputs.cache
+C:\Users\Getga\source\repos\Solution1\EscuelaSystemModules\obj\Debug\netcoreapp3.1\EscuelaSystemModules.AssemblyInfo.cs
+C:\Users\Getga\source\repos\Solution1\EscuelaSystemModules\obj\Debug\netcoreapp3.1\EscuelaSystemModules.csproj.CoreCompileInputs.cache
+C:\Users\Getga\source\repos\Solution1\EscuelaSystemModules\obj\Debug\netcoreapp3.1\EscuelaSystemModules.dll
+C:\Users\Getga\source\repos\Solution1\EscuelaSystemModules\obj\Debug\netcoreapp3.1\EscuelaSystemModules.pdb

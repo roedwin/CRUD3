@@ -1,0 +1,44 @@
+﻿@page
+@model EscuelaSystemWeb.Pages.MateriasModel
+@{
+}
+<h1>Listado de materias</h1>
+<a asp-page="/CrearMateria">Crear Materia</a>
+<br />
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Codigo</th>
+            <th>Nombre</th>
+            <th>Habilitada</th>
+            <th>Editar</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Materias)
+        {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Codigo</td>
+            <td>@item.Description</td>
+            <td>
+                @if (@item.Habilitada)
+                {
+                    <input type="checkbox" name="habilutada" checked="checked" />
+                }
+                else
+                {
+                    <input type="checkbox" name="habilutada" checked="checked" />
+                }
+            </td>
+            <td>
+                <a class="nav-link text-dark" asp-area="" asp-page="/EditMateria" asp-route-id="@item.Id">Editar</a>
+            </td>
+            <td>
+                <a class="btn btn-sm btn-info" asp-area="" asp-page="/EliMateria">Eliminar</a>
+            </td>
+        </tr>
+        }
+    </tbody>    
+</table>

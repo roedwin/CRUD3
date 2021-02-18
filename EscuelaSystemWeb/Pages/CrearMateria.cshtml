@@ -1,0 +1,22 @@
+﻿@page
+@model EscuelaSystemWeb.Pages.CrearMateriaModel
+@{
+}
+<form method="post">
+    <div asp-validation-summary="ModelOnly"></div>
+    <div class="form-group">
+        <label asp-for="Materia.Codigo"></label>
+        <input type="text" class="form-control" asp-for="Materia.Codigo" placeholder="Ingrese el codigo nuevo" />
+        <span class="text-danger" asp-validation-for="Materia.Codigo"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Materia.Description"></label>
+        <input type="text" class="form-control" asp-for="Materia.Description" placeholder="Ingrese la descripcion nueva" />
+        <span class="text-danger" asp-validation-for="Materia.Description"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Materia.Habilitada"></label>
+        <input type="text" class="form-control" asp-for="Materia.Habilitada" />
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

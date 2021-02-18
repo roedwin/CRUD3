@@ -1,0 +1,12 @@
+C:\Users\Getga\source\repos\Solution1\EscuelaSystemData\bin\Debug\netcoreapp3.1\EscuelaSystemModules.dll
+C:\Users\Getga\source\repos\Solution1\EscuelaSystemData\obj\Debug\netcoreapp3.1\EscuelaSystemData.csprojAssemblyReference.cache
+C:\Users\Getga\source\repos\Solution1\EscuelaSystemData\obj\Debug\netcoreapp3.1\EscuelaSystemData.AssemblyInfoInputs.cache
+C:\Users\Getga\source\repos\Solution1\EscuelaSystemData\obj\Debug\netcoreapp3.1\EscuelaSystemData.AssemblyInfo.cs
+C:\Users\Getga\source\repos\Solution1\EscuelaSystemData\bin\Debug\netcoreapp3.1\EscuelaSystemData.deps.json
+C:\Users\Getga\source\repos\Solution1\EscuelaSystemData\bin\Debug\netcoreapp3.1\EscuelaSystemData.dll
+C:\Users\Getga\source\repos\Solution1\EscuelaSystemData\bin\Debug\netcoreapp3.1\EscuelaSystemData.pdb
+C:\Users\Getga\source\repos\Solution1\EscuelaSystemData\bin\Debug\netcoreapp3.1\EscuelaSystemModules.pdb
+C:\Users\Getga\source\repos\Solution1\EscuelaSystemData\obj\Debug\netcoreapp3.1\EscuelaSystemData.csproj.CoreCompileInputs.cache
+C:\Users\Getga\source\repos\Solution1\EscuelaSystemData\obj\Debug\netcoreapp3.1\EscuelaSystemData.csproj.CopyComplete
+C:\Users\Getga\source\repos\Solution1\EscuelaSystemData\obj\Debug\netcoreapp3.1\EscuelaSystemData.dll
+C:\Users\Getga\source\repos\Solution1\EscuelaSystemData\obj\Debug\netcoreapp3.1\EscuelaSystemData.pdb
