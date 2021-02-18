@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EscuelaSystemData", "EscuelaSystemData\EscuelaSystemData.csproj", "{402024D9-3FB7-4048-AE4E-8DDE2357B1DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalonSystemData", "EscuelaSystemData\SalonSystemData.csproj", "{402024D9-3FB7-4048-AE4E-8DDE2357B1DA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EscuelaSystemModules", "EscuelaSystemModules\EscuelaSystemModules.csproj", "{D8F304EF-AF47-4165-828C-743E04C6288C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalonSystemModules", "EscuelaSystemModules\SalonSystemModules.csproj", "{D8F304EF-AF47-4165-828C-743E04C6288C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EscuelaSystemWeb", "EscuelaSystemWeb\EscuelaSystemWeb.csproj", "{C3C89E99-956B-4030-BF53-4902AC0271A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalonSystemWeb", "EscuelaSystemWeb\SalonSystemWeb.csproj", "{C3C89E99-956B-4030-BF53-4902AC0271A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
